@@ -1,0 +1,722 @@
+{
+  "run_id": "run_20260916T144807Z",
+  "extraction_timestamp": "2026-09-16T14:48:14.873433+00:00",
+  "source": "https://books.toscrape.com",
+  "crm_mode": "mock",
+  "summary": {
+    "run_id": "run_20260916T144807Z",
+    "started_at": "2026-09-16T14:48:07.979267+00:00",
+    "finished_at": "2026-09-16T14:48:14.873276+00:00",
+    "duration_seconds": 6.894,
+    "records_discovered": 32,
+    "records_extracted": 25,
+    "records_rejected": 0,
+    "duplicates_skipped": 0,
+    "crm_sync_successes": 25,
+    "crm_sync_failures": 0,
+    "output_file": "output/run_20260916T144807Z.json"
+  },
+  "records": [
+    {
+      "extraction_timestamp": "2026-09-16T14:48:09.832030+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "title": "Sharp Objects",
+        "price_amount": 47.82,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 20,
+        "rating": 4,
+        "category": "Mystery",
+        "upc": "e00eb4fd7b871a48",
+        "description": "WICKED above her hipbone, GIRL across her heart Words are like a road map to reporter Camille Preaker\u2019s troubled past. Fresh from a brief stay at a psych hospital, Camille\u2019s first assignment from the second-rate daily paper where she works brings her reluctantly back to her hometown to cover the murders of two preteen girls. NASTY on her kneecap, BABYDOLL on her leg Since WICKED above her hipbone, GIRL across her heart Words are like a road map to reporter Camille Preaker\u2019s troubled past. Fresh from a brief stay at a psych hospital, Camille\u2019s first assignment from the second-rate daily paper where she works brings her reluctantly back to her hometown to cover the murders of two preteen girls. NASTY on her kneecap, BABYDOLL on her leg Since she left town eight years ago, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed again in her family\u2019s Victorian mansion, Camille is haunted by the childhood tragedy she has spent her whole life trying to cut from her memory. HARMFUL on her wrist, WHORE on her ankle As Camille works to uncover the truth about these violent crimes, she finds herself identifying with the young victims\u2014a bit too strongly. Clues keep leading to dead ends, forcing Camille to unravel the psychological puzzle of her own past to get at the story. Dogged by her own demons, Camille will have to confront what happened to her years before if she wants to survive this homecoming.With its taut, crafted writing, Sharp Objects is addictive, haunting, and unforgettable. ...more",
+        "scraped_at": "2026-09-16T14:48:09.832030+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:09.908187+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+        "title": "In a Dark, Dark Wood",
+        "price_amount": 19.63,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 18,
+        "rating": 1,
+        "category": "Mystery",
+        "upc": "19ed25f4641d5efd",
+        "description": "In a dark, dark wood Nora hasn't seen Clare for ten years. Not since Nora walked out of school one day and never went back. There was a dark, dark houseUntil, out of the blue, an invitation to Clare\u2019s hen do arrives. Is this a chance for Nora to finally put her past behind her?And in the dark, dark house there was a dark, dark roomBut something goes wrong. Very wrong.And i In a dark, dark wood Nora hasn't seen Clare for ten years. Not since Nora walked out of school one day and never went back. There was a dark, dark houseUntil, out of the blue, an invitation to Clare\u2019s hen do arrives. Is this a chance for Nora to finally put her past behind her?And in the dark, dark house there was a dark, dark roomBut something goes wrong. Very wrong.And in the dark, dark room.... Some things can\u2019t stay secret for ever. ...more",
+        "scraped_at": "2026-09-16T14:48:09.908187+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:09.986526+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+        "title": "The Past Never Ends",
+        "price_amount": 56.5,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 16,
+        "rating": 4,
+        "category": "Mystery",
+        "upc": "5ee94540d0749ea0",
+        "description": "A simple task, Attorney Chester Morgan thinks. Get a copy of a public record for a young man whose only friend has died in an unexplained accidental death. Except... The police file regarding the demise of sex worker Tanya Everly has been sealed by the order of the chief of police, and no one will talk. Warned to drop the matter, Attorney Morgan knows that if he doesn't sp A simple task, Attorney Chester Morgan thinks. Get a copy of a public record for a young man whose only friend has died in an unexplained accidental death. Except... The police file regarding the demise of sex worker Tanya Everly has been sealed by the order of the chief of police, and no one will talk. Warned to drop the matter, Attorney Morgan knows that if he doesn't speak for the dead young woman, no one will. Haunted by his discovery of the body of a prominent local oilman, Morgan pursues a quest for justice that puts his reputation, career, and life at risk. A journey that takes him into the dark shadows of the sex-for-sale business, into the marble courtrooms of Oklahoma, and into the aching loneliness of his own soul. Set in the American Southwest in the days before 9/11, The Past Never Ends is both a complex murder mystery and a meditation on the self-perpetuating nature of injustice and the ethereal nature of justice itself. ...more",
+        "scraped_at": "2026-09-16T14:48:09.986526+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.069036+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html",
+        "title": "A Murder in Time",
+        "price_amount": 16.64,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 16,
+        "rating": 1,
+        "category": "Mystery",
+        "upc": "f733e8c19d40ec2e",
+        "description": "Beautiful and brilliant, Kendra Donovan is a rising star at the FBI. Yet her path to professional success hits a speed bump during a disastrous raid where half her team is murdered, a mole in the FBI is uncovered and she herself is severely wounded. As soon as she recovers, she goes rogue and travels to England to assassinate the man responsible for the deaths of her teamm Beautiful and brilliant, Kendra Donovan is a rising star at the FBI. Yet her path to professional success hits a speed bump during a disastrous raid where half her team is murdered, a mole in the FBI is uncovered and she herself is severely wounded. As soon as she recovers, she goes rogue and travels to England to assassinate the man responsible for the deaths of her teammates.While fleeing from an unexpected assassin herself, Kendra escapes into a stairwell that promises sanctuary but when she stumbles out again, she is in the same place - Aldrich Castle - but in a different time: 1815, to be exact.Mistaken for a lady's maid hired to help with weekend guests, Kendra is forced to quickly adapt to the time period until she can figure out how she got there; and, more importantly, how to get back home. However, after the body of a young girl is found on the extensive grounds of the county estate, she starts to feel there's some purpose to her bizarre circumstances. Stripped of her twenty-first century tools, Kendra must use her wits alone in order to unmask a cunning madman. ...more",
+        "scraped_at": "2026-09-16T14:48:10.069036+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.147270+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html",
+        "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "price_amount": 44.1,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 15,
+        "rating": 4,
+        "category": "Mystery",
+        "upc": "c7b5183f4d1d4efe",
+        "description": "In the village of King's Abbot, a widow's sudden suicide sparks rumors that she murdered her first husband, was being blackmailed, and was carrying on a secret affair with the wealthy Roger Ackroyd. The following evening, Ackroyd is murdered in his locked study--but not before receiving a letter identifying the widow's blackmailer. King's Abbot is crawling with suspects, i In the village of King's Abbot, a widow's sudden suicide sparks rumors that she murdered her first husband, was being blackmailed, and was carrying on a secret affair with the wealthy Roger Ackroyd. The following evening, Ackroyd is murdered in his locked study--but not before receiving a letter identifying the widow's blackmailer. King's Abbot is crawling with suspects, including a nervous butler, Ackroyd's wayward stepson, and his sister-in-law, Mrs. Cecil Ackroyd, who has taken up residence in the victim's home. It's now up to the famous detective Hercule Poirot, who has retired to King's Abbot to garden, to solve the case of who killed Roger Ackroyd--a task in which he is aided by the village doctor and narrator, James Sheppard, and by Sheppard's ingenious sister, Caroline.The Murder of Roger Ackroyd is the book that made Agatha Christie a household name and launched her career as a perennial bestseller. Originally published in 1926, it is a landmark in the mystery genre. It was in the vanguard of a new class of popular detective fiction that ushered in the modern era of mystery novels. ...more",
+        "scraped_at": "2026-09-16T14:48:10.147270+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.223915+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html",
+        "title": "The Last Mile (Amos Decker #2)",
+        "price_amount": 54.21,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 14,
+        "rating": 2,
+        "category": "Mystery",
+        "upc": "3bc89353f7e3a3cc",
+        "description": "In his #1 New York Times bestseller Memory Man, David Baldacci introduced the extraordinary detective Amos Decker-the man who can forget nothing. Now, Decker returns in a spectacular new thriller . . . THE LAST MILEConvicted murderer Melvin Mars is counting down the last hours before his execution--for the violent killing of his parents twenty years earlier--when he's gran In his #1 New York Times bestseller Memory Man, David Baldacci introduced the extraordinary detective Amos Decker-the man who can forget nothing. Now, Decker returns in a spectacular new thriller . . . THE LAST MILEConvicted murderer Melvin Mars is counting down the last hours before his execution--for the violent killing of his parents twenty years earlier--when he's granted an unexpected reprieve. Another man has confessed to the crime.Amos Decker, newly hired on an FBI special task force, takes an interest in Mars's case after discovering the striking similarities to his own life: Both men were talented football players with promising careers cut short by tragedy. Both men's families were brutally murdered. And in both cases, another suspect came forward, years after the killing, to confess to the crime. A suspect who may or may not have been telling the truth.The confession has the potential to make Melvin Mars--guilty or not--a free man. Who wants Mars out of prison? And why now?But when a member of Decker's team disappears, it becomes clear that something much larger--and more sinister--than just one convicted criminal's life hangs in the balance. Decker will need all of his extraordinary brainpower to stop an innocent man from being executed. ...more",
+        "scraped_at": "2026-09-16T14:48:10.223915+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 2,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.299374+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html",
+        "title": "That Darkness (Gardiner and Renner #1)",
+        "price_amount": 13.92,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 14,
+        "rating": 1,
+        "category": "Mystery",
+        "upc": "0c7b9cf2b7662b65",
+        "description": "As a forensic investigator for the Cleveland Police Department, Maggie Gardiner has seen her share of Jane Does. The latest is an unidentified female in her early teens, discovered in a local cemetery. More shocking than the girl\u2019s injuries\u2014for Maggie at least\u2014is the fact that no one has reported her missing. She and the detectives assigned to the case (including her cop e As a forensic investigator for the Cleveland Police Department, Maggie Gardiner has seen her share of Jane Does. The latest is an unidentified female in her early teens, discovered in a local cemetery. More shocking than the girl\u2019s injuries\u2014for Maggie at least\u2014is the fact that no one has reported her missing. She and the detectives assigned to the case (including her cop ex-husband) are determined to follow every lead, run down every scrap of evidence. But the monster they seek is watching each move, closer to them than they could ever imagine. Jack Renner is a killer. He doesn\u2019t murder because he savors it, or because he believes himself omnipotent, or for any reason other than to make the world a safer place. When he follows the trail of this Jane Doe to a locked room in a small apartment where eighteen teenaged girls are anything but safe, he knows something must be done. But his pursuit of their captor takes an unexpected turn.Maggie Gardiner finds another body waiting for her in the autopsy room\u2014and a host of questions that will challenge everything she believes about justice, morality, and the true nature of evil \u2026 ...more",
+        "scraped_at": "2026-09-16T14:48:10.299374+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.377100+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html",
+        "title": "Tastes Like Fear (DI Marnie Rome #3)",
+        "price_amount": 10.69,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 14,
+        "rating": 1,
+        "category": "Mystery",
+        "upc": "2d1e337aaf341858",
+        "description": "Sarah Hilary won the 2015 Theakston's Crime Novel of the Year with her debut, the 2014 Richard and Judy pick SOMEONE ELSE'S SKIN. She followed up with NO OTHER DARKNESS, proclaimed as 'riveting' by Lisa Gardner and 'truly mesmerising' by David Mark. Now D.I. Marnie Rome returns in her third novel.Home is where Harm lies...The young girl who causes the fatal car crash disap Sarah Hilary won the 2015 Theakston's Crime Novel of the Year with her debut, the 2014 Richard and Judy pick SOMEONE ELSE'S SKIN. She followed up with NO OTHER DARKNESS, proclaimed as 'riveting' by Lisa Gardner and 'truly mesmerising' by David Mark. Now D.I. Marnie Rome returns in her third novel.Home is where Harm lies...The young girl who causes the fatal car crash disappears from the scene.A runaway who doesn't want to be found, she only wants to go home.To the one man who understands her.Gives her shelter. Just as he gives shelter to the other lost girls who live in his house.He's the head of her new family.He's Harm. And when Harm's family is threatened, Marnie Rome is about to find out that everything tastes like fear... ...more",
+        "scraped_at": "2026-09-16T14:48:10.377100+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.456868+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html",
+        "title": "A Time of Torment (Charlie Parker #14)",
+        "price_amount": 48.35,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 14,
+        "rating": 5,
+        "category": "Mystery",
+        "upc": "4416c474713ec1f5",
+        "description": "Jerome Burnel was once a hero. He intervened to prevent multiple killings and in doing so damned himself. His life was torn apart. He was imprisoned, brutalized.But in his final days, with the hunters circling, he tells his story to private detective Charlie Parker. He speaks of the girl who was marked for death but was saved, of the ones who tormented him, and an entity t Jerome Burnel was once a hero. He intervened to prevent multiple killings and in doing so damned himself. His life was torn apart. He was imprisoned, brutalized.But in his final days, with the hunters circling, he tells his story to private detective Charlie Parker. He speaks of the girl who was marked for death but was saved, of the ones who tormented him, and an entity that hides in a ruined stockade.Parker is not like other men. He died, and was reborn. He is ready to wage war.Now he will descend upon a strange, isolated community called the Cut, and face down a force of men who rule by terror, intimidation, and murder.All in the name of the being they serve.All in the name of the Dead King. ...more",
+        "scraped_at": "2026-09-16T14:48:10.456868+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.535651+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html",
+        "title": "A Study in Scarlet (Sherlock Holmes #1)",
+        "price_amount": 16.73,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 14,
+        "rating": 2,
+        "category": "Mystery",
+        "upc": "63ee5bc46066a8a8",
+        "description": "In the debut of literature's most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio's Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of In the debut of literature's most famous sleuth, a dead man is discovered in a bloodstained room in Brixton. The only clues are a wedding ring, a gold watch, a pocket edition of Boccaccio's Decameron, and a word scrawled in blood on the wall. With this investigation begins the partnership of Sherlock Holmes and Dr. Watson. Their search for the murderer uncovers a story of love and revenge-and heralds a franchise of detective mysteries starring the formidable Holmes. ...more",
+        "scraped_at": "2026-09-16T14:48:10.535651+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.615803+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html",
+        "title": "Poisonous (Max Revere Novels #3)",
+        "price_amount": 26.8,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 12,
+        "rating": 3,
+        "category": "Mystery",
+        "upc": "abdd91e96515a617",
+        "description": "Teen-aged Internet bully Ivy Lake fell off a cliff and few people cared ... except her mentally-challenged eighteen-year-old step-brother, Tommy. He loved her in spite of her cruelty. He's distraught and doesn't understand why his blended family is falling apart. After a year, the police still have no answers: Ivy could have jumped, could have been pushed, or it could have Teen-aged Internet bully Ivy Lake fell off a cliff and few people cared ... except her mentally-challenged eighteen-year-old step-brother, Tommy. He loved her in spite of her cruelty. He's distraught and doesn't understand why his blended family is falling apart. After a year, the police still have no answers: Ivy could have jumped, could have been pushed, or it could have been an accident. With too many suspects and not enough evidence, the investigation has grown cold.Tommy thinks that if someone can figure out what happened to his step-sister, everything will go back to normal, so he writes to investigative reporter Maxine Revere. This isn\u2019t the type of case Max normally takes on, but the heartbreak and simple honesty in Tommy's letter pulls her in. She travels to Corte Madera, California, with her assistant David Kane and is at first pleased that the police are cooperative. But the more Max learns about Tommy and his dysfunctional family, the more she thinks she\u2019s taken on an impossible task: this may be the one case she can\u2019t solve.If Ivy was murdered, it was exceptionally well-planned and that kind of killer could be hiding in plain sight ... planning the next act of violence. Max believes the truth is always better than lies, that the truth is the only thing that matters to gain justice for victims and their families. But for the first time, she wonders if this time, the truth will kill. ...more",
+        "scraped_at": "2026-09-16T14:48:10.615803+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.695651+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html",
+        "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "price_amount": 54.36,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 12,
+        "rating": 4,
+        "category": "Mystery",
+        "upc": "e7fe3bf2768602cf",
+        "description": "Murder at the 42nd Street Library opens with a murder in a second floor office of the iconic, beaux-arts flagship of the New York Public Library. Ray Ambler, the curator of the library's crime fiction collection, joins forces with NYPD homicide detective Mike Cosgrove in hopes of bringing a murderer to justice.In his search for the reasons behind the murder, Ambler uncover Murder at the 42nd Street Library opens with a murder in a second floor office of the iconic, beaux-arts flagship of the New York Public Library. Ray Ambler, the curator of the library's crime fiction collection, joins forces with NYPD homicide detective Mike Cosgrove in hopes of bringing a murderer to justice.In his search for the reasons behind the murder, Ambler uncovers hidden--and profoundly disturbing--relationships between visitors to the library. These include a celebrated mystery writer who has donated his papers to the library's crime fiction collection, that writer's missing daughter, a New York society woman with a hidden past, and one of Ambler's colleagues at the world-famous library. Those shocking revelations lead inexorably to the tragic and violent events that follow. ...more",
+        "scraped_at": "2026-09-16T14:48:10.695651+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.771306+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/most-wanted_623/index.html",
+        "title": "Most Wanted",
+        "price_amount": 35.28,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 12,
+        "rating": 3,
+        "category": "Mystery",
+        "upc": "c039f5aceb093537",
+        "description": "Lisa Scottoline delivers another searing, powerful blockbuster novel that explores hot-button issues within the framework of an intricately plotted thriller. When a woman and her husband, desperate for a baby, find themselves unable to conceive, they decide to take further steps. Since it is the husband who is infertile, the heroine decides to use a donor. And all seems to Lisa Scottoline delivers another searing, powerful blockbuster novel that explores hot-button issues within the framework of an intricately plotted thriller. When a woman and her husband, desperate for a baby, find themselves unable to conceive, they decide to take further steps. Since it is the husband who is infertile, the heroine decides to use a donor. And all seems to be well. Three months pass and she is happily pregnant. But a shocking revelation occurs when she discovers that a man arrested for a series of brutal murders is her donor - the biological father of the child she is carrying. Delving deeper to uncover the truth, the heroine must face her worst fears, and confront a terrifying truth. Most Wanted is sure to be Lisa Scottoline's most discussed, bestselling novel yet. ...more",
+        "scraped_at": "2026-09-16T14:48:10.771306+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.855319+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html",
+        "title": "Hide Away (Eve Duncan #20)",
+        "price_amount": 11.84,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 12,
+        "rating": 1,
+        "category": "Mystery",
+        "upc": "bddc6fd036eb6279",
+        "description": "Iris Johansen's beloved forensic sculptor Eve Duncan is back and now the stakes are higher than ever. Dramatic changes are on the horizon for Eve and Joe Quinn and their relationship may never be the same. Faced with the task of protecting Cara Delaney, a young girl with ruthless enemies who want to see her dead, Eve takes her away to the remote Scottish Highlands where th Iris Johansen's beloved forensic sculptor Eve Duncan is back and now the stakes are higher than ever. Dramatic changes are on the horizon for Eve and Joe Quinn and their relationship may never be the same. Faced with the task of protecting Cara Delaney, a young girl with ruthless enemies who want to see her dead, Eve takes her away to the remote Scottish Highlands where they join Jane MacGuire in search of a hidden treasure. But nowhere is far enough away to protect Cara from danger. With enemies closing in from all sides, Hide Away is a high-octane thriller that fans will not want to miss. ...more",
+        "scraped_at": "2026-09-16T14:48:10.855319+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:10.932824+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html",
+        "title": "Boar Island (Anna Pigeon #19)",
+        "price_amount": 59.48,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 12,
+        "rating": 3,
+        "category": "Mystery",
+        "upc": "49b24c6a41b82bd2",
+        "description": "Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America's National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst Bringing you a gripping mystery, Nevada Barr transports you to the wild and dangerous landscapes of America's National Parks and is sure to appeal if you like Sue Grafton and Janet Evanovich.The eighteenth sensational crime novel from New York Times bestselling author Nevada Barr featuring fearless park ranger Anna Pigeon as she battles to solve a heinous crime set amidst the wild and dangerous landscape of a US National Park. ...more",
+        "scraped_at": "2026-09-16T14:48:10.932824+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.010902+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-widow_609/index.html",
+        "title": "The Widow",
+        "price_amount": 27.26,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 11,
+        "rating": 2,
+        "category": "Mystery",
+        "upc": "6159d8b187831770",
+        "description": "THE NEW YORK TIMESBESTSELLERFor fans of Gone Girl and The Girl on the Train, an electrifying thriller that will take you into the dark spaces that exist between a husband and a wife.When the police started asking questions, Jean Taylor turned into a different woman. One who enabled her and her husband to carry on, when more bad things began to happen... But that woman\u2019s h THE NEW YORK TIMES BESTSELLERFor fans of Gone Girl and The Girl on the Train, an electrifying thriller that will take you into the dark spaces that exist between a husband and a wife.When the police started asking questions, Jean Taylor turned into a different woman. One who enabled her and her husband to carry on, when more bad things began to happen... But that woman\u2019s husband died last week. And Jean doesn\u2019t have to be her anymore. There\u2019s a lot Jean hasn\u2019t said over the years about the crime her husband was suspected of committing. She was too busy being the perfect wife, standing by her man while living with the accusing glares and the anonymous harassment. Now there\u2019s no reason to stay quiet. There are people who want to hear her story. They want to know what it was like living with that man. She can tell them that there were secrets. There always are in a marriage. The truth\u2014that\u2019s all anyone wants. But the one lesson Jean has learned in the last few years is that she can make people believe anything\u2026 ...more",
+        "scraped_at": "2026-09-16T14:48:11.010902+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 2,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.088606+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/playing-with-fire_602/index.html",
+        "title": "Playing with Fire",
+        "price_amount": 13.71,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 11,
+        "rating": 3,
+        "category": "Mystery",
+        "upc": "05a61a3bd8ca4149",
+        "description": "A beautiful violinist is haunted by a very old piece of music she finds in a strange antique shop in Rome.The first time Julia Ansdell picks up The Incendio Waltz, she knows it\u2019s a strikingly unusual composition. But while playing the piece, Julia blacks out and awakens to find her young daughter implicated in acts of surprising violence. And when she travels to Venice to A beautiful violinist is haunted by a very old piece of music she finds in a strange antique shop in Rome.The first time Julia Ansdell picks up The Incendio Waltz, she knows it\u2019s a strikingly unusual composition. But while playing the piece, Julia blacks out and awakens to find her young daughter implicated in acts of surprising violence. And when she travels to Venice to find the previous owner of the music, she uncovers a dark secret that involves dangerously powerful people\u2014a family who would stop at nothing to keep Julia from bringing the truth to light. ...more",
+        "scraped_at": "2026-09-16T14:48:11.088606+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.166181+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html",
+        "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "price_amount": 25.37,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 7,
+        "rating": 5,
+        "category": "Mystery",
+        "upc": "9735c969c652dd89",
+        "description": "What Happened on Beale Street is an exciting addition to the Secrets of the South Mysteries from bestselling author Mary Ellis. These standalone, complex crime dramas follow a private investigator's quest to make the world a better place...solving one case at a time.A cryptic plea for help from a childhood friend sends cousins Nate and Nicki Price from New Orleans to Memph What Happened on Beale Street is an exciting addition to the Secrets of the South Mysteries from bestselling author Mary Ellis. These standalone, complex crime dramas follow a private investigator's quest to make the world a better place...solving one case at a time.A cryptic plea for help from a childhood friend sends cousins Nate and Nicki Price from New Orleans to Memphis, the home of scrumptious barbecue and soulful blues music. When they arrive at Danny Andre's last known address, they discover signs of a struggle and a lifestyle not in keeping with the former choirboy they fondly remember.Danny's sister, Isabelle, reluctantly accepts their help. She and Nate aren't on the best of terms due to a complicated past, yet they will have to get beyond that if they want to save Danny.On top of Danny's alarming disappearance and his troubled relationship with Isabelle, Nate also has to rein in his favorite cousin's overzealousness as a new and eager PI. Confronted with a possible murder, mystery, and mayhem in the land of the Delta blues, Nate must rely on his faith and investigative experience to keep one or more of them from getting killed. ...more",
+        "scraped_at": "2026-09-16T14:48:11.166181+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.247891+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html",
+        "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "price_amount": 52.3,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 7,
+        "rating": 5,
+        "category": "Mystery",
+        "upc": "20789fb17b423c4c",
+        "description": "In 1910 Toronto, while other bachelor girls perfect their domestic skills and find husbands, two friends perfect their sleuthing skills and find a murderer.Inspired by their fascination with all things Sherlock Holmes, best friends and flatmates Merinda and Jem launch a consulting detective business. The deaths of young Irish women lead Merinda and Jem deeper into the mire In 1910 Toronto, while other bachelor girls perfect their domestic skills and find husbands, two friends perfect their sleuthing skills and find a murderer.Inspired by their fascination with all things Sherlock Holmes, best friends and flatmates Merinda and Jem launch a consulting detective business. The deaths of young Irish women lead Merinda and Jem deeper into the mire of the city's underbelly, where the high hopes of those dreaming to make a new life in Canada are met with prejudice and squalor.While searching for answers, donning disguises, and sneaking around where no proper ladies would ever go, they pair with Jasper Forth, a police constable, and Ray DeLuca, a reporter in whom Jem takes a more than professional interest. Merinda could well be Toronto's premiere consulting detective, and Jem may just find a way to put her bachelor girlhood behind her forever--if they can stay alive long enough to do so. ...more",
+        "scraped_at": "2026-09-16T14:48:11.247891+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.324656+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html",
+        "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+        "price_amount": 20.89,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 7,
+        "rating": 4,
+        "category": "Mystery",
+        "upc": "4e980425468708da",
+        "description": "Quaker midwife Rose Carroll hears secrets and keeps confidences as she attends births of the rich and poor alike in an 1888 Massachusetts mill town. When the town\u2019s world-famed carriage industry is threatened by the work of an arsonist, and a carriage factory owner\u2019s adult son is stabbed to death with Rose's own knitting needle, she is drawn into solving the mystery. Thing Quaker midwife Rose Carroll hears secrets and keeps con\u00adfi\u00addences as she attends births of the rich and poor alike in an 1888 Massachusetts mill town. When the town\u2019s world-famed car\u00adriage indus\u00adtry is threat\u00adened by the work of an arson\u00adist, and a car\u00adriage fac\u00adtory owner\u2019s adult son is stabbed to death with Rose's own knitting needle, she is drawn into solv\u00ading the mys\u00adtery. Things get dicey after the same owner\u2019s mis\u00adtress is also mur\u00addered, leav\u00ading her one-week-old baby with\u00adout a mother. The Quaker poet and abolitionist John Greenleaf Whittier helps Rose by lending words of advice and support. While strug\u00adgling with being less than the per\u00adfect Friend, Rose draws on her strengths as a counselor and prob\u00adlem solver to bring two mur\u00adder\u00aders to justice before they destroy the town\u2019s carriage industry and the people who run it. ...more",
+        "scraped_at": "2026-09-16T14:48:11.324656+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.551755+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html",
+        "title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+        "price_amount": 24.8,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 6,
+        "rating": 4,
+        "category": "Mystery",
+        "upc": "2da5edf8b5776c9a",
+        "description": "Poirot, a Belgian refugee of the Great War, is settling in England near the home of Emily Inglethorp, who helped him to his new life. His friend Hastings arrives as a guest at her home. When the woman is killed, Poirot uses his detective skills to solve the mystery.",
+        "scraped_at": "2026-09-16T14:48:11.551755+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.632327+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/in-the-woods-dublin-murder-squad-1_433/index.html",
+        "title": "In the Woods (Dublin Murder Squad #1)",
+        "price_amount": 38.38,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 6,
+        "rating": 2,
+        "category": "Mystery",
+        "upc": "6958de044cb28a84",
+        "description": "A gorgeously written novel that marks the debut of an astonishing new voice in psychological suspense.As dusk approaches a small Dublin suburb in the summer of 1984, mothers begin to call their children home. But on this warm evening, three children do not return from the dark and silent woods. When the police arrive, they find only one of the children. He is gripping a tr A gorgeously written novel that marks the debut of an astonishing new voice in psychological suspense.As dusk approaches a small Dublin suburb in the summer of 1984, mothers begin to call their children home. But on this warm evening, three children do not return from the dark and silent woods. When the police arrive, they find only one of the children. He is gripping a tree trunk in terror, wearing blood-filled sneakers and unable to recall a single detail of the previous hours.Twenty years later, the found boy, Rob Ryan, is a detective on the Dublin Murder Squad and keeps his past a secret. But when a 12-year-old girl is found murdered in the same woods, he and Detective Cassie Maddox (his partner and closest friend) find themselves investigating a case chillingly similar to the previous unsolved mystery. Now, with only snippets of long-buried memories to guide him, Ryan has the chance to uncover both the mystery of the case before him and that of his own shadowy past. ...more",
+        "scraped_at": "2026-09-16T14:48:11.632327+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 2,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.714504+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html",
+        "title": "The Silkworm (Cormoran Strike #2)",
+        "price_amount": 23.05,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 3,
+        "rating": 5,
+        "category": "Mystery",
+        "upc": "f06039c29b5891fa",
+        "description": "Private investigator Cormoran Strike returns in a new mystery from Robert Galbraith, author of the #1 international bestseller The Cuckoo's Calling.When novelist Owen Quine goes missing, his wife calls in private detective Cormoran Strike. At first, Mrs. Quine just thinks her husband has gone off by himself for a few days\u2014as he has done before\u2014and she wants Strike to find Private investigator Cormoran Strike returns in a new mystery from Robert Galbraith, author of the #1 international bestseller The Cuckoo's Calling.When novelist Owen Quine goes missing, his wife calls in private detective Cormoran Strike. At first, Mrs. Quine just thinks her husband has gone off by himself for a few days\u2014as he has done before\u2014and she wants Strike to find him and bring him home.But as Strike investigates, it becomes clear that there is more to Quine's disappearance than his wife realizes. The novelist has just completed a manuscript featuring poisonous pen-portraits of almost everyone he knows. If the novel were to be published, it would ruin lives\u2014meaning that there are a lot of people who might want him silenced.When Quine is found brutally murdered under bizarre circumstances, it becomes a race against time to understand the motivation of a ruthless killer, a killer unlike any Strike has encountered before... ...more",
+        "scraped_at": "2026-09-16T14:48:11.714504+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.793025+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-exiled_247/index.html",
+        "title": "The Exiled",
+        "price_amount": 43.45,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 3,
+        "rating": 3,
+        "category": "Mystery",
+        "upc": "dd003e904727281a",
+        "description": "Can anyone ever truly outrun his past?Back in the 1980s, Wes Raney was an ambitious New York City Narcotics Detective with a growing drug habit of his own. While working undercover on a high-risk case, he made decisions that ultimately cost him not only his career, but also his family. Disgraced, Raney fled-but history is finally catching up with him.Now in his early forti Can anyone ever truly outrun his past?Back in the 1980s, Wes Raney was an ambitious New York City Narcotics Detective with a growing drug habit of his own. While working undercover on a high-risk case, he made decisions that ultimately cost him not only his career, but also his family. Disgraced, Raney fled-but history is finally catching up with him.Now in his early forties, Raney has been living in exile, the sole homicide investigator covering a two-hundred-mile stretch of desert in New Mexico. His solitude is his salvation-but it ends when a brutal drug deal gone wrong results in a triple murder. Staged in a locked underground bunker, the crime reawakens Raney's haunted and violent past.From the vast, unforgiving landscape of the American west to the mean streets of New York, The Exiled is at once a riveting murder mystery and a brilliant portrait of a man on the run from himself, an unforgettable thriller that is \"impossible to put down\" (Frank Bill). ...more",
+        "scraped_at": "2026-09-16T14:48:11.793025+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    },
+    {
+      "extraction_timestamp": "2026-09-16T14:48:11.868060+00:00",
+      "source": "books.toscrape.com",
+      "record": {
+        "source": "books.toscrape.com",
+        "source_url": "https://books.toscrape.com/catalogue/the-cuckoos-calling-cormoran-strike-1_239/index.html",
+        "title": "The Cuckoo's Calling (Cormoran Strike #1)",
+        "price_amount": 19.21,
+        "price_currency": "GBP",
+        "in_stock": true,
+        "stock_quantity": 3,
+        "rating": 1,
+        "category": "Mystery",
+        "upc": "1be6d3b121865edb",
+        "description": "A BRILLIANT DEBUT MYSTERY IN A CLASSIC VEIN: DETECTIVE CORMORAN STRIKE INVESTIGATES A SUPERMODEL'S SUICIDE. After losing his leg to a land mine in Afghanistan, Cormoran Strike is barely scraping by as a private investigator. Strike is down to one client, and creditors are calling. He has also just broken up with his longtime girlfriend and is living in his office.Then John A BRILLIANT DEBUT MYSTERY IN A CLASSIC VEIN: DETECTIVE CORMORAN STRIKE INVESTIGATES A SUPERMODEL'S SUICIDE. After losing his leg to a land mine in Afghanistan, Cormoran Strike is barely scraping by as a private investigator. Strike is down to one client, and creditors are calling. He has also just broken up with his longtime girlfriend and is living in his office.Then John Bristow walks through his door with an amazing story: His sister, the legendary supermodel Lula Landry, known to her friends as the Cuckoo, famously fell to her death a few months earlier. The police ruled it a suicide, but John refuses to believe that. The case plunges Strike into the world of multimillionaire beauties, rock-star boyfriends, and desperate designers, and it introduces him to every variety of pleasure, enticement, seduction, and delusion known to man.You may think you know detectives, but you've never met one quite like Strike. You may think you know about the wealthy and famous, but you've never seen them under an investigation like this. Introducing Cormoran Strike, this is the acclaimed first crime novel by J.K. Rowling, writing under the pseudonym Robert Galbraith. ...more",
+        "scraped_at": "2026-09-16T14:48:11.868060+00:00",
+        "validation_status": "valid",
+        "validation_errors": []
+      },
+      "crm_sync": {
+        "attempted": true,
+        "success": true,
+        "attempts": 1,
+        "status_code": 201,
+        "detail": "ok",
+        "mode": "mock"
+      }
+    }
+  ],
+  "rejected_records": []
+}
