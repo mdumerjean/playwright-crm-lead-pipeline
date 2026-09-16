@@ -9,6 +9,7 @@ from __future__ import annotations
 import os
 from dataclasses import dataclass, field
 from pathlib import Path
+from typing import Optional
 
 from dotenv import load_dotenv
 
@@ -51,6 +52,12 @@ class ScraperSettings:
     headless: bool = field(default_factory=lambda: _env_bool("HEADLESS", True))
     navigation_timeout_ms: int = field(default_factory=lambda: _env_int("NAVIGATION_TIMEOUT_MS", 15000))
     fetch_product_detail: bool = field(default_factory=lambda: _env_bool("FETCH_PRODUCT_DETAIL", True))
+    # Opt-in only (unset by default -> no behavior change). When set, Playwright records
+    # the real browser session to this directory as .webm -- used by demo_video/ to
+    # capture genuine automation footage without any desktop/screen recording.
+    record_video_dir: Optional[Path] = field(
+        default_factory=lambda: (PROJECT_ROOT / os.environ["RECORD_VIDEO_DIR"]) if os.getenv("RECORD_VIDEO_DIR") else None
+    )
 
 
 @dataclass(frozen=True)

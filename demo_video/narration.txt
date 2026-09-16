@@ -1,0 +1,41 @@
+# Narration script, split by scene marker.
+# generate_demo.py parses "## SCENE N" headers and synthesizes each block with
+# macOS `say`. Edit the text below to change what's spoken; scene *visuals*
+# are defined separately in generate_demo.py / lib/scenes.py.
+
+## SCENE 1
+This is a Python and Playwright browser automation pipeline, built with
+Claude Code as an engineering copilot. It's a portfolio implementation,
+not paid client work.
+
+## SCENE 2
+Here's the automation running live. Chromium opens a public scraping
+sandbox, paginates through category listings, and follows each result
+into its own product page for real multi-page structured extraction.
+
+## SCENE 3
+Extraction, validation, and CRM synchronization are three separate
+layers. Every record gets normalized, validated against required
+fields, and checked for duplicates before anything is written out.
+
+## SCENE 4
+Valid records are written as structured JSON, shaped to map onto CRM
+contact fields. That sync layer handles authentication headers, retry
+with backoff, and structured logging, running here against a mock
+CRM, not real GoHighLevel credentials.
+
+## SCENE 5
+Thirty five automated tests cover the parsing, validation, and CRM
+client logic independent of the live site, and they currently all
+pass.
+
+## SCENE 6
+During development, a real bug showed up here. After following a
+listing into its detail page, the code checked for a next page link
+on the wrong page, and pagination silently stopped. It was fixed,
+rerun, and verified against the live site.
+
+## SCENE 7
+The same layered architecture, extraction, validation, and CRM sync
+kept separate, can point at a different portal or a real GoHighLevel
+account without rewriting the pipeline.

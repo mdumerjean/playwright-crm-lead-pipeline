@@ -9,3 +9,14 @@ screenshots/*.png
 !output/.gitkeep
 !screenshots/.gitkeep
 .DS_Store
+
+# Demo video generation: source/tooling is tracked, generated media is not
+# (regenerable via `python demo_video/generate_demo.py`; large binaries don't belong in git).
+demo_video/scenes/*
+demo_video/audio/*
+demo_video/captured/*
+demo_video/output/*
+!demo_video/scenes/.gitkeep
+!demo_video/audio/.gitkeep
+!demo_video/captured/.gitkeep
+!demo_video/output/.gitkeep

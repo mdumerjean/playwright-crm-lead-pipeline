@@ -74,9 +74,17 @@ class BookScraper:
     async def __aenter__(self) -> "BookScraper":
         self._playwright = await async_playwright().start()
         self._browser = await self._playwright.chromium.launch(headless=self._settings.headless)
-        self._context = await self._browser.new_context(
-            user_agent="Mozilla/5.0 (compatible; PortfolioLeadBot/1.0; +https://example.invalid/bot)"
-        )
+
+        context_kwargs = {
+            "user_agent": "Mozilla/5.0 (compatible; PortfolioLeadBot/1.0; +https://example.invalid/bot)"
+        }
+        if self._settings.record_video_dir:
+            self._settings.record_video_dir.mkdir(parents=True, exist_ok=True)
+            context_kwargs["record_video_dir"] = str(self._settings.record_video_dir)
+            context_kwargs["record_video_size"] = {"width": 1280, "height": 720}
+            context_kwargs["viewport"] = {"width": 1280, "height": 720}
+
+        self._context = await self._browser.new_context(**context_kwargs)
         self._context.set_default_navigation_timeout(self._settings.navigation_timeout_ms)
         return self
 
