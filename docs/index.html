@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Playwright Automation Demo</title>
+<meta name="description" content="AI-assisted Python + Playwright browser automation with structured extraction, validation, CRM/API synchronization, retry handling, and automated tests.">
+<style>
+  :root {
+    --bg: #0b0f14;
+    --panel: #11161d;
+    --border: #232b36;
+    --text: #e6edf3;
+    --dim: #8b98a5;
+    --accent: #4fd1c5;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, "SF Pro Display", "Helvetica Neue", Arial, sans-serif;
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 48px 20px 64px;
+  }
+  .kicker {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    color: var(--accent);
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+  }
+  h1 {
+    font-size: clamp(28px, 5vw, 44px);
+    line-height: 1.15;
+    margin: 0 0 14px;
+  }
+  .subtitle {
+    color: var(--dim);
+    font-size: clamp(15px, 2.2vw, 18px);
+    line-height: 1.5;
+    max-width: 720px;
+    margin: 0 0 32px;
+  }
+  .video-frame {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px;
+  }
+  video {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 6px;
+    background: #000;
+  }
+  .note {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    font-size: 14px;
+    color: var(--dim);
+    border-left: 3px solid var(--border);
+    padding: 12px 16px;
+    margin: 24px 0 36px;
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 15px;
+    color: var(--text);
+    text-decoration: none;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    padding: 10px 16px;
+    border-radius: 8px;
+  }
+  .btn:hover { border-color: var(--accent); }
+  footer {
+    margin-top: 48px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+    color: var(--dim);
+    font-size: 13px;
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">Portfolio work sample</div>
+  <h1>Playwright Automation Demo</h1>
+  <p class="subtitle">
+    AI-assisted Python + Playwright browser automation with structured extraction,
+    validation, CRM/API synchronization, retry handling, and automated tests.
+  </p>
+
+  <div class="video-frame">
+    <video
+      controls
+      playsinline
+      preload="auto"
+      poster="demo-screenshot.png"
+      src="https://github.com/mdumerjean/playwright-crm-lead-pipeline/releases/download/demo-v1/playwright-automation-demo.mp4">
+      Your browser does not support inline video playback. You can
+      <a href="https://github.com/mdumerjean/playwright-crm-lead-pipeline/releases/download/demo-v1/playwright-automation-demo.mp4">download the MP4 directly</a>.
+    </video>
+  </div>
+
+  <p class="note">
+    Public demonstration uses mock CRM synchronization; the integration layer is
+    designed for authenticated CRM/API connections.
+  </p>
+
+  <div class="links">
+    <a class="btn" href="https://github.com/mdumerjean/playwright-crm-lead-pipeline">
+      View source on GitHub
+    </a>
+  </div>
+
+  <footer>
+    github.com/mdumerjean/playwright-crm-lead-pipeline
+  </footer>
+</main>
+</body>
+</html>
